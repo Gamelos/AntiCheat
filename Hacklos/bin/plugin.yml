@@ -1,0 +1,8 @@
+name: Hacklos
+version: 1.0.4 BETA
+author: Gamelos
+
+main: de.gamelos.hacklos.Main
+
+commands:
+  check:
